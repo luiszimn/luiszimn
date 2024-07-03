@@ -5,6 +5,10 @@ I'm following the path of tecnology in search of absorbing more knowledge to fac
 
 ## Connect with me
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/luiszimn17)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/luiszimn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiszimn02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADszimn/)
+
 
 ## Tool Skills
 [![X](https://img.shields.io/badge/Android_Studio-009?style=for-the-badge&logo=android)](https://x.com/SEUUSERNAME)
@@ -14,7 +18,9 @@ I'm following the path of tecnology in search of absorbing more knowledge to fac
 
 ## Languages
 
-![Java](https://img.shields.io/badge/java-274360.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-ec1c24.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-005789C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
