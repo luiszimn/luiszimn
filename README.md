@@ -1,4 +1,4 @@
-# Luiszimn
+# Luis Zimn
 Programing student fron Salvador,BA Brazil, i'm a beginner and recently completed an Android programming course 
 with Java using Android Studio and i already use the tool for programming mobile devices.        
 I'm following the path of tecnology in search of absorbing more knowledge to face new challenges and achieve my dreams.
